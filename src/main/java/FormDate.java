@@ -1,8 +1,5 @@
 public class FormDate {
-    public static void main(String[] args) {
-        int FormDateDay = 13;
-        int FormDateMonth = 6;
-        int FormDateYear = 1999;
-
-    }
+    public int day;
+    public int month;
+    public int year;
 }
